@@ -4,8 +4,12 @@ I'm Reuel, a Mechatronics Engineer and Robotics Enthusiast from New Zealand.
 ## About Me
 
 - 🎓 Graduated in 2024 with a Bachelor’s degree in Mechatronics Engineering (with honours) from the University of Auckland and have 2 years of industry experience.
-- 😍 Loves Programming, Electronics, Game Development, 3D modelling and learning new skills!
-- 
+- 😍 Passionate about Programming, Electronics, Game Development, 3D modelling and learning new skills!
+
+## Skills
+- 🧑‍💻 Programming Languages: C, C#, C++, Javascript, Python, MATLAB, R, Arduino, HTML, CSS
+- 🖥️ 3D Modelling: Blender, Autodesk Suite, Rhino
+- 🛠️ Other Skills: 3D Printing 
 <!--
 **SeventhDream/SeventhDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
