@@ -3,7 +3,7 @@ I'm Reuel, a Mechatronics Engineer and Robotics Enthusiast from New Zealand.
 
 ## About Me
 
-- 🎓 Graduated in 2024 with a Bachelor’s degree in Mechatronics Engineering (with honours) from the University of Auckland and have 2 years of industry experience.
+- 🎓 Graduated in 2024 with a Bachelor’s degree in Mechatronics Engineering (with honours) from the University of Auckland and have 1+ years of industry experience.
 - 😍 Passionate about Programming, Electronics, Game Development, 3D modelling and learning new skills!
 - 🔭 Check out my repositories to see what I'm working on!
 - 📫 You can reach me via email at rkimon@gmail.com.
